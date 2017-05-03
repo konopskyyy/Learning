@@ -1,4 +1,4 @@
-# Protocols
+# Transmission
 
 [UART part 1 PL](http://forbot.pl/blog/artykuly/programowanie/port-szeregowy-interfejs-usart-czyli-komunikacja-mikrokontrolera-z-komputerem-id1122)
 
