@@ -9,3 +9,9 @@
 
 # Version control system
 [GIT - FULL MANUAL PL](https://git-scm.com/book/pl/v1)
+
+# Virtual machine
+[Oracle VM VirtualBox ENG](http://www.virtualbox.org/manual/)
+
+# QML
+[QML Video tutorial ENG](https://www.youtube.com/watch?v=Y4utTBcSjdM&list=PLB22HyVdO1GkLFrvRi5vIo5XcWS0EflxD)
