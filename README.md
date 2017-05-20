@@ -4,6 +4,8 @@
 
 [UART part 2 PL](http://forbot.pl/blog/artykuly/programowanie/avr-programowanie/port-szeregowy-interfejs-usart-2-id1218)
 
+[Radio communication - intriduction PL](http://forbot.pl/blog/artykuly/programowanie/rfm12b-czyli-wstep-do-komunikacji-radiowej-id1834)
+
 # Bootloaders
 [Bootloaders - first steps on Arduino example PL](http://forbot.pl/blog/artykuly/programowanie/bootloadery-pierwsze-kroki-na-przykladzie-arduino-id10203)
 
@@ -18,3 +20,4 @@
 
 # MBED
 [MBED documentation ENG](https://developer.mbed.org/users/mbed_official/code/mbed/docs/tip/)
+
