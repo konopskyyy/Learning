@@ -21,3 +21,6 @@
 # MBED
 [MBED documentation ENG](https://developer.mbed.org/users/mbed_official/code/mbed/docs/tip/)
 
+# Linux
+
+[Installation Linux on embedded platform PL](http://forbot.pl/blog/artykuly/programowanie/przewodnik-instalacji-linuxa-platformie-embedded-id2541)
