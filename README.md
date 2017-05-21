@@ -19,6 +19,8 @@
 [QML Video tutorial ENG](https://www.youtube.com/watch?v=Y4utTBcSjdM&list=PLB22HyVdO1GkLFrvRi5vIo5XcWS0EflxD)
 
 # MBED
+[Mbed OS for command line](http://blog.3mdeb.com/2016/11/23/starting-with-mdeb-os-for-linux-and-command-line-enthusiast/)
+
 [MBED documentation ENG](https://developer.mbed.org/users/mbed_official/code/mbed/docs/tip/)
 
 # Linux
