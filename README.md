@@ -27,3 +27,8 @@
 [Test writing learning platform - PGS Software](https://asta.pgs-soft.com/)
 
 [Test writing learning platform - a lot of examples](http://the-internet.herokuapp.com)
+
+# MySQL
+
+[Video tutorials M.Zelent](https://www.youtube.com/watch?v=99JAI24Zd24&list=PLOYHgt8dIdoymv-Wzvs8M-OsKFD31VTVZ)
+[SQLpedia](http://www.sqlpedia.pl/kurs-sql/)
