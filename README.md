@@ -22,11 +22,13 @@
 
 [Cron schedule expression editor](https://crontab.guru)
 
-# Selenium
+# Testing
 
 [Test writing learning platform - PGS Software](https://asta.pgs-soft.com/)
 
 [Test writing learning platform - a lot of examples](http://the-internet.herokuapp.com)
+
+[Mail catcher](https://temp-mail.org/)
 
 # MySQL
 
